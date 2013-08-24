@@ -1,4 +1,4 @@
-My English Cheatsheet
+English_Cheatsheet
 ==================
 
-One beauty page with English grammar based on Bootstrap, full mobile compatibility.
+One page with English grammar based on Bootstrap 
